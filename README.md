@@ -1,2 +1,2 @@
 # omzcj.github.io
-OMZCJ 主页
+OMZCJ
