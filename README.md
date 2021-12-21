@@ -1,2 +1,1 @@
 # omzcj.github.io
-OMZCJ
